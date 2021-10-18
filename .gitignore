@@ -6,3 +6,4 @@
 /BookList/.vs/BookList
 /BookList/bin/Debug/netcoreapp3.1
 /BookList/obj
+/BookList/wwwroot/lib
